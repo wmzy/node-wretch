@@ -1,5 +1,5 @@
 # node-wretch
-> wretch polyfills for node.js
+> [wretch](https://github.com/elbywan/wretch) polyfills for node.js
 
 ## Install
 ```bash
@@ -12,3 +12,7 @@ npm i node-wretch
 const wretch = require('node-wretch');
 
 ```
+
+## More Info
+
+> See [wretch](https://github.com/elbywan/wretch)
